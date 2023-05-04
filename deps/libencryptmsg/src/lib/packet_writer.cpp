@@ -12,6 +12,7 @@
 #include "botan/cipher_mode.h"
 #include "botan/auto_rng.h"
 #include "openpgp_conversions.h"
+#include <stdexcept>
 #include "emsg_mem.h"
 
 using namespace std;
