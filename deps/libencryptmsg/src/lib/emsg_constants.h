@@ -8,6 +8,7 @@
 #include <cstddef>
 #include <limits>
 #include "algo_spec.h"
+#include <cstdint>
 
 namespace EncryptMsg
 {
